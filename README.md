@@ -1,3 +1,2 @@
 # MinorProject
-Airbnb User Booking Prediction Model 
-still in progress
+Airbnb New User Booking Prediction Model 
